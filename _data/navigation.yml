@@ -2,9 +2,9 @@ main:
   - title: "About"
     url: /about/
   - title: "Research Journey"
-    url: /Research_Journey/
-  - title: "Project links"
-    url: /Project_links/
+    url: /Research-journey/
+  - title: "Project Links"
+    url: /Project-links/
   - title: "Posts"
     url: /posts/
   - title: "Categories"

@@ -1,1 +1,4 @@
-project links
+---
+permalink: /project-links/
+title: "Project Links"
+---
