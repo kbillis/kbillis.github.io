@@ -3,7 +3,9 @@ main:
     url: /posts/
   - title: "Categories"
     url: /categories/
-  - title: "Tags"
-    url: /tags/
+  - title: "Research Journey"
+    url: /Research_Journey/
+  - title: "Project links"
+    url: /Project_links/
   - title: "About"
     url: /about/

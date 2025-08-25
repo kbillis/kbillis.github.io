@@ -37,7 +37,7 @@ plugins:
 # Author details
 author:
   name   : "Konstantinos (Kostas) Billis"
-  avatar : "/assets/images/bio-photo.jpg"  # Make sure this image exists or comment this line out
+  # avatar : "/assets/images/bio-photo.jpg"  # Make sure this image exists or comment this line out
   bio    : "Computational biologist and data architect working at the intersection of genomics, ML, and healthcare."
   links:
     - label: "Website"
