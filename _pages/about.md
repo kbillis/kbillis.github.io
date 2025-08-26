@@ -1,10 +1,3 @@
----
-permalink: /
-title: "About"
-layout: single
-author_profile: true
----
+## 👨‍🔬 About Me
 
-I am a curious bioinformatician and healthcare data professional with a PhD and many years of experience at the intersection of biological challenges and data science. My career has focused on building scalable data solutions, developing high-throughput analysis pipelines, and applying machine learning and AI methods to extract actionable insights from complex biological and healthcare datasets.
-I have adapted to and continue learning innovative technologies to ensure data can drive discovery, improve patient outcomes, and support evidence-based decision-making. I also bring strong project management experience, bridging technical and stakeholder needs in collaborative, interdisciplinary environments.
-
+I'm a **curious bioinformatician** and **healthcare data expert** with a **PhD** and over **14 years of experience** working at the intersection of **biology**, **data science**, and **translational research**. My work has centered on developing **scalable bioinformatics tools**, analyzing **complex data**, and building **high-throughput pipelines** for **human genetics**, **microbiome**, and **multi-omics datasets**. With a strong foundation in **biology** and deep expertise in **software engineering**, **cloud/HPC workflows**, and **machine learning**, I understand requirements and translate complex biological data into **actionable insights**. I'm known for **bridging computational and experimental teams**, **mentoring collaborators**, and delivering **impactful, patient-centered research** through **clear communication** and **thoughtful project leadership**. What sets me apart is an **end-to-end perspective across the R&D spectrum**—from **genome annotation** and **large-scale data integration** to **biomarker discovery**, **wet-lab collaboration**, **translational analytics**, and **patient-facing platforms**. My contributions have been published in **Nature**, **Science**, and **Nucleic Acids Research**, with over **20,000 citations**, reflecting both **scientific rigor** and **broad community impact** across **thousands of researchers and pharmaceutical teams worldwide**.
