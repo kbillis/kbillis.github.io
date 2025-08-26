@@ -19,7 +19,7 @@ remote_theme: "mmistakes/minimal-mistakes"
 # Output settings
 permalink: /:categories/:title/
 paginate: 5
-paginate_path: /page:num/
+paginate_path: "/blog/page:num/"
 
 # Include additional folders
 include:
@@ -46,6 +46,12 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/kbillis"
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-google-scholar"
+      url: "https://scholar.google.co.uk/citations?user=YsQgBgUAAAAJ"  # Replace with your actual Google Scholar URL
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/konstantinos-billis-phd-baa23a22/"  # Replace
 
 # Footer links
 footer:
@@ -57,7 +63,7 @@ footer:
 # Defaults
 defaults:
   - scope:
-      path: ""
+      path: "_about"
       type: about
     values:
       layout: single

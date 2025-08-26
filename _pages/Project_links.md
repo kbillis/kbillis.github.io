@@ -3,9 +3,9 @@ permalink: /Project-links/
 title: "Links to Delivered Projects that I contributed"
 ---
 
-# 🌍 My Professional Open-Source Journey & Publicly available Projects
+# 🌍 My contributions to Open-Source Projects
 
-This page summarizes my contributions to open source **bioinformatics, genomics, and translational data science** projects, across academia, biotech, and clinical research. 
+Links to open source **bioinformatics, genomics, and translational data science** projects, across academia, biotech, and clinical research. 
 
 ---
 
@@ -23,6 +23,7 @@ This page summarizes my contributions to open source **bioinformatics, genomics,
 - [Ensembl first Clade Annotation](https://www.ensembl.org/info/genome/genebuild/2017_12_primate_clade_gene_annotation.pdf)
 - [Illumina Human BodyMap 2.0](https://www.ensembl.info/2011/05/24/human-bodymap-2-0-data-from-illumina/)  
 - [ncRNA Gene Annotation](https://www.ensembl.org/info/genome/genebuild/ncrna.html)  
+- [Annotation of immunoglobulin and T-cell receptor genes](https://www.ensembl.org/info/genome/genebuild/ig_tcr.html)
 - [Google Summer of Code – Ensembl](https://www.ensembl.info/2018/10/25/gsoc-with-ensembl-catching-up-with-2018s-students/)  
 
 
@@ -54,23 +55,20 @@ This page summarizes my contributions to open source **bioinformatics, genomics,
 
 ## 🔹 European Alliance of Associations for Rheumatology (EULAR)
 - **[RheumaFacts](https://www.eular.org/eular-rheumafacts)**  
-  *Epidemiology and advocacy initiative in rheumatology*  
-  🎥 [Watch Talk](https://www.youtube.com/watch?v=T-XhePX-GPw)
+  *Epidemiology and advocacy initiative in rheumatology* - 🎥 [Watch Talk](https://www.youtube.com/watch?v=T-XhePX-GPw)
 
 - **[Basic and Translational research (ATAI)](https://www.eular.org/eular-atai)**  
-  *Insights for autoimmune diseases*  
-  🎥 [Watch Talk](https://www.youtube.com/watch?v=wUEBuZfRmBU)
+  *Insights for autoimmune diseases* - 🎥 [Watch Talk](https://www.youtube.com/watch?v=wUEBuZfRmBU)
 
 - **[IMPACT Survey](https://www.eular.org/impactsurvey)**  
-  *Patient-centered data collection for policy and research*  
-  🎥 [Watch Talk](https://www.youtube.com/watch?v=8kSAV4VSU9I)
+  *Patient-centered data collection for policy and research* - 🎥 [Watch Talk](https://www.youtube.com/watch?v=8kSAV4VSU9I)
 
 
 ---
 
 ## 🔹 Transition Bio
 - [Transition Bio Website](https://transitionbio.com/)  
-- Work on **biomolecular condensates**, **drug discovery pipelines**, and **machine learning for omics data**.  
+*Work on **biomolecular condensates**, drug discovery pipelines, and machine learning with omics data*  
 
 ---
 
@@ -82,3 +80,4 @@ This page summarizes my contributions to open source **bioinformatics, genomics,
 
 ## 🔹 Other activities
 - [H.bioinfo Hellenic Bioinformatics - Founding member](https://hscbio.wordpress.com/members-who/founding-members/) 
+- [trading](https://publicstaticweb.s3.us-east-1.amazonaws.com/index.html) - Work in progress

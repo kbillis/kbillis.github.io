@@ -25,9 +25,9 @@ This role sparked my **PhD research**, examining transcriptomic responses to env
 - Differential gene expression,  
 - Evidence of antisense genes,  
 - Transcriptional mutagenesis,  
-- Reverse transcriptase–like proteins integrating transcriptional variants into DNA.  
+- Reverse transcriptase–like proteins.  
 
-My PhD was conducted while working full-time for **[EMBL-EBI](https://www.ebi.ac.uk/)** and in collaboration with Aristotle University and JGI.  
+My PhD was conducted while working full-time for **[European Bioinformatics Institute - EMBL](https://www.ebi.ac.uk/)** and in collaboration with **[Aristotle University](https://www.auth.gr/en/school/bio-en/)**, **[National Energy Research Scientific Computing Center](http://nersc.gov/)** and **JGI**.  
 
 ---
 
