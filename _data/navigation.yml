@@ -1,11 +1,12 @@
-# _data/navigation.yml
-
 main:
   - title: "About"
     url: /
   - title: "Research Journey"
-    url: /Research_Journey/
-  - title: "Projects"
-    url: /Project_links/
+    url: /Research-journey/
+  - title: "Project Links"
+    url: /Projects/
   - title: "Blog"
     url: /blog/
+
+  - title: "Contact"  # New Contact link
+    url: /contact/  # Ensure you have a contact.md page in your _pages directory
