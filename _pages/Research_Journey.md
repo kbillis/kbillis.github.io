@@ -7,19 +7,14 @@ title: "Research journey"
 
 ## First Studies
 My research career bridges genetics, bioinformatics, and data analysis, driven by a commitment to data-driven insights that advance both scientific understanding and applied healthcare solutions.  
-
 My academic journey began with a foundation in genetics and plants biology at **[Aristotle University of Thessaloniki](https://www.auth.gr/en/)**, including a six-month exchange program in biotechnology at a master’s level at **[Università degli Studi di Milano – Facoltà di Agraria](https://www.unimi.it/en)**.  
-
-Building on this, I pursued a **Master’s in Bioinformatics** at **[Wageningen University](https://www.wur.nl/en.htm)**, where my thesis focused on **plant-pathogen interactions**, specifically investigating the role of transcription factors and secreted proteins in host-pathogen dynamics.  
-
-Later, during an internship at the **Institute of Molecular Biology and Biotechnology (IMBB-FORTH)** in Crete, I delved into **RNA interference (RNAi)**, honing my skills in both wet-lab and computational techniques and cementing my transition into computational biology.  
+Building on this, I pursued a **Master’s in Bioinformatics** at **[Wageningen University](https://www.wur.nl/en.htm)**, where my thesis focused on transcription factors and secreted proteins in host-pathogen dynamics.  
+Later, during an internship at the **[Institute of Molecular Biology and Biotechnology (IMBB-FORTH)](https://imbb.forth.gr/en/home/)** in Crete, I delved into **RNA interference (RNAi)**, honing my skills in both wet-lab and computational techniques and cementing my transition into computational biology.  
 
 ---
 
 ## Advancing Computational Biology and RNA-seq at JGI
-My early professional work at the **[Joint Genome Institute (JGI)](https://jgi.doe.gov/)** under the **U.S. Department of Energy** focused on developing workflows and visualization tools for early **RNA sequencing (RNA-seq)** - [Early RNAseq pipeline](https://escholarship.org/content/qt0fz7q27j/qt0fz7q27j.pdf) - data analysis, essential for microbial research.  
-
-At a time when RNA-seq was an emerging technique, I developed one of the **first pipelines for expression data** and web tools within the **[Integrated Microbial Genomes (IMG)](https://img.jgi.doe.gov/)** system. 
+My early professional work at the **[Joint Genome Institute (JGI)](https://jgi.doe.gov/)** under the **U.S. Department of Energy** focused on developing workflows and visualization tools for early **RNA sequencing (RNA-seq)** - [Early RNAseq pipeline](https://escholarship.org/content/qt0fz7q27j/qt0fz7q27j.pdf) - data analysis, essential for microbial research.  At a time when RNA-seq was an emerging technique, I developed one of the **first pipelines for expression data** and web tools within the **[Integrated Microbial Genomes (IMG)](https://img.jgi.doe.gov/)** system. 
 
 This role sparked my **PhD research**, examining transcriptomic responses to environmental stress in cyanobacteria (*Synechococcus sp.* and *Synechocystis*). My thesis revealed adaptive mechanisms in response to stress, including:  
 - Differential gene expression,  
@@ -32,26 +27,19 @@ My PhD was conducted while working full-time for **[European Bioinformatics Inst
 ---
 
 ## Pioneering Genomic Resources with Ensembl
-A defining stage of my career was at the **[European Bioinformatics Institute (EMBL-EBI)](https://www.ebi.ac.uk/)** and the **[Wellcome Sanger Institute](https://www.sanger.ac.uk/)**.  
-
-Here, I contributed to one of the world’s most critical genomic resources: the **[Ensembl platform](https://www.ensembl.org/)**. Key projects included:  
+A defining stage of my career was at the **[European Bioinformatics Institute (EMBL-EBI)](https://www.ebi.ac.uk/)** and the **[Wellcome Sanger Institute](https://www.sanger.ac.uk/)**. Here, I contributed to one of the world’s most critical genomic resources: the **[Ensembl platform](https://www.ensembl.org/)**. Key projects included:  
 
 - **GRCh38 human genome annotation** (the current human reference genome)  
 - **Illumina Human BodyMap project**  
 - **The Human Pangenome Project** (featured on the cover of *Nature*)  
 - Pipelines for **non-coding RNAs** (lncRNA) and **immune genes** (IG/TR)  
 
-
-I also led **multi-genome annotations** (primates, rodents), which laid the foundation for scalable high-throughput genome analysis at Ensembl.  
-My contributions significantly expanded Ensembl’s role in global human genetics, enabling **high-quality genomic data access** for researchers, clinicians, and pharma R&D teams.  
+I also led **multi-genome annotations** (primates, rodents), which laid the foundation for scalable high-throughput genome analysis at Ensembl. My contributions significantly expanded Ensembl’s role in global human genetics, enabling **high-quality genomic data access** for researchers, clinicians, and pharma R&D teams.  
 
 ---
 
 ## International Collaborations and Industry Partnerships
-During my time at Ensembl, I collaborated closely with academia and industry, tailoring genomic data resources to diverse needs.  
-
-
-I contributed to **20+ custom genomics projects**, covering:  
+During my time at Ensembl, I collaborated closely with academia and industry, tailoring genomic data resources to diverse needs. I contributed to **20+ custom genomics projects**, covering:  
 - Model organism annotations  
 - Single-cell experiments  
 - Biomarker discovery  
@@ -62,7 +50,7 @@ I also supervised and mentored junior scientists, introducing **bioinformatics, 
 ---
 
 ## Translational Bioinformatics and Healthcare Data
-Following Ensembl, I transitioned into **translational bioinformatics** roles bridging research and healthcare.  
+Following Ensembl, I transitioned into **translational bioinformatics** roles bridging research, healthcare and pharma events.  
 
 At **[Transition Bio](https://www.transition.bio/)** (Cambridge & Boston), I integrated **multi-omics data and machine learning predictions** into drug discovery, focusing on **biomolecular condensates** and therapeutic targets.  
 
@@ -71,11 +59,11 @@ At **[EULAR – European Alliance of Associations for Rheumatology](https://www.
 - FAIR-compliant data sharing  
 - Patient-focused translational research  
 
-These projects required close collaboration with **patient groups, clinicians, advocacy organizations, and pharmaceutical partners**.  
+These projects required close collaboration with **wet-lab scientists, patient groups, clinicians, advocacy organizations, and pharmaceutical partners**.  
 
 ---
 
-## 📚 Publications and Research Impact
+## Publications and Research Impact
 
 I have authored **26+ publications** in high-impact journals including *Nature*, *Science*, *Cell Reports Methods*, and *Nucleic Acids Research*, with over **20,000 citations** to date.
 
@@ -102,7 +90,6 @@ I have authored **26+ publications** in high-impact journals including *Nature*,
 - **Healthcare & Policy**  
   Recent work includes the EULAR RheumaFacts project on inequity in access to care for rheumatic diseases (*Annals of the Rheumatic Diseases*, 2025).
 
-
 ---
 
 ## Mentorship and Community Engagement
@@ -121,7 +108,7 @@ Looking ahead, my goal is to advance **precision medicine and predictive modelin
 --- 
 
 ## Summary
-My career embodies a dedication to **innovation, collaboration, and impact** — spanning foundational genomics projects at Ensembl, international consortia, translational bioinformatics in healthcare, and community engagement worldwide.  
+My career embodies a dedication to **innovation, collaboration, and impact** - spanning foundational genomics projects at Ensembl, international consortia, translational bioinformatics in healthcare, and community engagement worldwide.  
 
 ---
 
