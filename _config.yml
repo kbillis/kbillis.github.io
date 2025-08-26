@@ -37,8 +37,8 @@ plugins:
 # Author details
 author:
   name   : "Konstantinos (Kostas) Billis"
-  # avatar : "/assets/images/bio-photo.jpg"  # Make sure this image exists or comment this line out
-  bio    : "Computational biologist and data architect working at the intersection of genomics, ML, and healthcare."
+  avatar : "/assets/images/Gemini_Generated_Image_f4kebdf4kebdf4ke.png"  # Make sure this image exists or comment this line out
+  bio    : "Computational biologist and data architect working at the intersection of bioinformatics and healthcare."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
