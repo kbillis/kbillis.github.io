@@ -3,7 +3,7 @@ permalink: /Research-journey/
 title: "Research journey"
 ---
 
-![Map of My Journey](/assets/images/me_map.jpg)
+![Map of My Journey](/assets/images/me_map_2.jpg)
 
 ## First Studies
 My research career bridges genetics, bioinformatics, and data analysis, driven by a commitment to data-driven insights that advance both scientific understanding and applied healthcare solutions.  
