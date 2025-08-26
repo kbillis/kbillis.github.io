@@ -3,6 +3,7 @@ permalink: /Research-journey/
 title: "Research journey"
 ---
 
+![Map of My Journey](/assets/images/me_map.jpg)
 
 ## First Studies
 My research career bridges genetics, bioinformatics, and data analysis, driven by a commitment to data-driven insights that advance both scientific understanding and applied healthcare solutions.  
@@ -16,11 +17,9 @@ Later, during an internship at the **Institute of Molecular Biology and Biotechn
 ---
 
 ## Advancing Computational Biology and RNA-seq at JGI
-My early professional work at the **[Joint Genome Institute (JGI)](https://jgi.doe.gov/)** under the **U.S. Department of Energy** focused on developing workflows and visualization tools for early **RNA sequencing (RNA-seq)** data analysis, essential for microbial research.  
+My early professional work at the **[Joint Genome Institute (JGI)](https://jgi.doe.gov/)** under the **U.S. Department of Energy** focused on developing workflows and visualization tools for early **RNA sequencing (RNA-seq)** - [Early RNAseq pipeline](https://escholarship.org/content/qt0fz7q27j/qt0fz7q27j.pdf) - data analysis, essential for microbial research.  
 
-At a time when RNA-seq was an emerging technique, I developed one of the **first pipelines for expression data** and web tools within the **[Integrated Microbial Genomes (IMG)](https://img.jgi.doe.gov/)** system.  
-
-![Early RNAseq pipeline](path/to/jgi_rnaseq.png)
+At a time when RNA-seq was an emerging technique, I developed one of the **first pipelines for expression data** and web tools within the **[Integrated Microbial Genomes (IMG)](https://img.jgi.doe.gov/)** system. 
 
 This role sparked my **PhD research**, examining transcriptomic responses to environmental stress in cyanobacteria (*Synechococcus sp.* and *Synechocystis*). My thesis revealed adaptive mechanisms in response to stress, including:  
 - Differential gene expression,  
@@ -42,7 +41,6 @@ Here, I contributed to one of the world’s most critical genomic resources: the
 - **The Human Pangenome Project** (featured on the cover of *Nature*)  
 - Pipelines for **non-coding RNAs** (lncRNA) and **immune genes** (IG/TR)  
 
-![Ensembl logo](path/to/ensembl_logo.png)
 
 I also led **multi-genome annotations** (primates, rodents), which laid the foundation for scalable high-throughput genome analysis at Ensembl.  
 My contributions significantly expanded Ensembl’s role in global human genetics, enabling **high-quality genomic data access** for researchers, clinicians, and pharma R&D teams.  
@@ -73,21 +71,37 @@ At **[EULAR – European Alliance of Associations for Rheumatology](https://www.
 - FAIR-compliant data sharing  
 - Patient-focused translational research  
 
-![EULAR logo](https://www.eular.org/img/logo.png)
-
 These projects required close collaboration with **patient groups, clinicians, advocacy organizations, and pharmaceutical partners**.  
 
 ---
 
-## Publications and Research Impact
-I have authored **26+ publications** in high-impact journals (*Nature, Science, Nucleic Acids Research*), cited **20,000+ times**.  
+## 📚 Publications and Research Impact
 
-Highlights include:  
-- Transcriptomic stress responses in microbial organisms  
-- **Human Pangenome Project** (*Nature cover story*)  
-- Genomics of unique species (*Tuatara*, Tasmanian devil transmissible cancers)  
+I have authored **26+ publications** in high-impact journals including *Nature*, *Science*, *Cell Reports Methods*, and *Nucleic Acids Research*, with over **20,000 citations** to date.
 
-[Google Scholar Profile](https://scholar.google.com/)  
+### 🔬 Research Highlights
+
+- **Human Pangenome Project**  
+  Co-authored the *Nature* cover story on the draft human pangenome reference, contributing to the identification of ultra-conserved sequences across assemblies (*Nature*, *Cell Reports Methods*, 2023).
+
+- **Comparative Genomics of Unique Species**  
+  Explored evolutionary insights from the *Tuatara* genome (*Nature*, 2020) and transmissible cancers in *Tasmanian devils* (*Science*, 2023).
+
+- **Ensembl Genome Annotation**  
+  Long-standing contributor to the Ensembl project, with annual updates published in *Nucleic Acids Research* from 2014 to 2022, including work on farm animal genomes, chicken gene annotation, and lncRNA expression.
+
+- **Microbial Transcriptomics & Stress Response**  
+  Investigated transcriptomic stress responses in cyanobacteria (*PLoS One*, 2014) and lignocellulolytic microbial communities (*Biotechnology for Biofuels*, 2014).
+
+- **Structural Variation & Haplotype-Resolved Genomes**  
+  Contributed to studies on structural variation in cattle, pigs, and primates (*Nature Communications*, *Gigascience*, *Mobile DNA*, *BioRxiv*).
+
+- **Non-Coding RNA & Embryonic Development**  
+  Participated in RNAcentral and zebrafish mRNA expression time course projects (*NAR*, *eLife*, 2017–2019), and studies on embryonic lethality signatures (*Nature Communications*, 2019).
+
+- **Healthcare & Policy**  
+  Recent work includes the EULAR RheumaFacts project on inequity in access to care for rheumatic diseases (*Annals of the Rheumatic Diseases*, 2025).
+
 
 ---
 
@@ -99,16 +113,12 @@ Beyond research, I have a strong commitment to training and outreach.
 - **Google Summer of Code mentor**  
 - Active member of the **Hellenic Bioinformatics Association**  
 
-![Workshop photo](path/to/workshop.png)
-
 ---
 
 ## Research Vision
-Looking ahead, my goal is to advance **precision medicine and predictive modeling** by integrating **multi-omics data** with **machine learning and AI**.  
+Looking ahead, my goal is to advance **precision medicine and predictive modeling** by integrating **multi-omics data** with **bioinformatics pipelines and AI**.  
 
-I am particularly motivated to explore **LLMs and generative AI in genomics**, enhancing patient-centered healthcare solutions.  
-
----
+--- 
 
 ## Summary
 My career embodies a dedication to **innovation, collaboration, and impact** — spanning foundational genomics projects at Ensembl, international consortia, translational bioinformatics in healthcare, and community engagement worldwide.  

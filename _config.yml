@@ -36,7 +36,7 @@ plugins:
 
 # Author details
 author:
-  name   : "Konstantinos (Kostas) Billis"
+  name   : "Konstantinos (Kostas) Billis, PhD"
   avatar : "/assets/images/Gemini_Generated_Image_f4kebdf4kebdf4ke.png"  # Make sure this image exists or comment this line out
   bio    : "Computational biologist and data architect working at the intersection of bioinformatics and healthcare."
   links:
@@ -58,7 +58,7 @@ footer:
 defaults:
   - scope:
       path: ""
-      type: posts
+      type: about
     values:
       layout: single
       author_profile: true

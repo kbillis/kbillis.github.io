@@ -1,5 +1,5 @@
 ---
-permalink: /journey-projects/
+permalink: /Project-links/
 title: "Links to Delivered Projects that I contributed"
 ---
 
@@ -53,9 +53,6 @@ This page summarizes my contributions to open source **bioinformatics, genomics,
 --- 
 
 ## 🔹 European Alliance of Associations for Rheumatology (EULAR)
-
-### 🔬 Projects & Talks
-
 - **[RheumaFacts](https://www.eular.org/eular-rheumafacts)**  
   *Epidemiology and advocacy initiative in rheumatology*  
   🎥 [Watch Talk](https://www.youtube.com/watch?v=T-XhePX-GPw)
@@ -83,4 +80,5 @@ This page summarizes my contributions to open source **bioinformatics, genomics,
 
 ---
 
-
+## 🔹 Other activities
+- [H.bioinfo Hellenic Bioinformatics - Founding member](https://hscbio.wordpress.com/members-who/founding-members/) 
