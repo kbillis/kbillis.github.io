@@ -9,7 +9,7 @@ title: "Research journey"
 My research career bridges genetics, bioinformatics, and data analysis, driven by a commitment to data-driven insights that advance both scientific understanding and applied healthcare solutions.  
 My academic journey began with a foundation in genetics and plants biology at **[Aristotle University of Thessaloniki](https://www.auth.gr/en/)**, including a six-month exchange program in biotechnology at a master’s level at **[Università degli Studi di Milano – Facoltà di Agraria](https://www.unimi.it/en)**.  
 Building on this, I pursued a **Master’s in Bioinformatics** at **[Wageningen University](https://www.wur.nl/en.htm)**, where my thesis focused on transcription factors and secreted proteins in host-pathogen dynamics.  
-Later, during an internship at the **[Institute of Molecular Biology and Biotechnology (IMBB-FORTH)](https://imbb.forth.gr/en/home/)** in Crete, I delved into **RNA interference (RNAi)**, honing my skills in both wet-lab and computational techniques and cementing my transition into computational biology.  
+Later, during an internship at the **[Institute of Molecular Biology and Biotechnology (IMBB-FORTH)](https://imbb.forth.gr/en/home/)** in Crete, I delved into plants **RNA interference (RNAi)**, honing my skills in both wet-lab and computational techniques and cementing my transition into computational biology.  
 
 ---
 
@@ -20,7 +20,7 @@ This role sparked my **PhD research**, examining transcriptomic responses to env
 - Differential gene expression,  
 - Evidence of antisense genes,  
 - Transcriptional mutagenesis,  
-- Reverse transcriptase–like proteins.  
+- Reverse transcriptase–like protein.  
 
 My PhD was conducted while working full-time for **[European Bioinformatics Institute - EMBL](https://www.ebi.ac.uk/)** and in collaboration with **[Aristotle University](https://www.auth.gr/en/school/bio-en/)**, **[National Energy Research Scientific Computing Center](http://nersc.gov/)** and **JGI**.  
 
@@ -55,9 +55,9 @@ Following Ensembl, I transitioned into **translational bioinformatics** roles br
 At **[Transition Bio](https://www.transition.bio/)** (Cambridge & Boston), I integrated **multi-omics data and machine learning predictions** into drug discovery, focusing on **biomolecular condensates** and therapeutic targets.  
 
 At **[EULAR – European Alliance of Associations for Rheumatology](https://www.eular.org/)**, I built **secure cloud-based platforms** for clinical and omics data collection, enabling:  
+- Direct data collection from patients
+- Data visualization for advocacy
 - Bulk RNA-seq, scRNA-seq, BCR/TCR-seq analysis  
-- FAIR-compliant data sharing  
-- Patient-focused translational research  
 
 These projects required close collaboration with **wet-lab scientists, patient groups, clinicians, advocacy organizations, and pharmaceutical partners**.  
 

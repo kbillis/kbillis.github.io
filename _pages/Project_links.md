@@ -27,7 +27,7 @@ Links to open source **bioinformatics, genomics, and translational data science*
 - [RNA-seq and Functional Interpretation (Virtual)](https://www.ebi.ac.uk/training/events/introduction-rna-seq-and-functional-interpretation-virtual/)  
 - [Livestock Genomics Workshop](https://www.ebi.ac.uk/training/events/livestock-genomics/)  
 - [Ensembl API & Gene Annotation Workshop Taiwan (2016)](https://www.ebi.ac.uk/training/events/2016/ensembl-api-and-gene-annotation-workshop-nchc-2016/)  
-- [Hellenic Bioinformatics Association Tutors](https://hosmic.uth.gr/#tutors)  
+- [Tutors for Host - microbe interactions (hosmic) MSc ](https://hosmic.uth.gr/#tutors)  
 - [IMBBC Talk: Using Transcriptomics in Ensembl (2021)](https://imbbc.hcmr.gr/2021/07/14/web-talk-by-dr-konstantinos-billis-using-transcriptomics-data-in-ensembl/)  
 - [PhD Defense Presentation – Aristotle University (2020)](https://bio.auth.gr/2020/02/04/parousiasi-didaktorikis-diatrivis-tou-konstantinou-billi/)  
 
