@@ -1,3 +1,10 @@
+---
+permalink: /
+title: ""
+layout: single
+author_profile: false
+---
+
 I am a bioinformatician and healthcare data expert with a PhD and over 14 years of experience at the intersection of biology, data science, and translational research. My career has focused on developing scalable bioinformatics tools, analyzing complex multi-omics datasets, and building high-throughput pipelines for human genetics, microbiome, and clinical research.
 
 With a strong grounding in biology and expertise in software engineering, cloud/HPC workflows, and novel technologies, I specialize in turning complex biological data into actionable insights. I am recognized for bridging computational and experimental teams, mentoring collaborators, and leading projects that deliver patient-centered impact.
