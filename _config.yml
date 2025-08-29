@@ -38,7 +38,7 @@ plugins:
 author:
   name   : "Konstantinos (Kostas) Billis, PhD"
   avatar : "/assets/images/Gemini_Generated_Image_f4kebdf4kebdf4ke.png"  # Make sure this image exists or comment this line out
-  bio    : "Computational biologist and data architect working at the intersection of bioinformatics and healthcare."
+  bio    : "Computational biologist and data expert working at the intersection of bioinformatics, HPC pipelines and healthcare."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -48,7 +48,7 @@ author:
       url: "https://github.com/kbillis"
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google-scholar"
-      url: "https://scholar.google.co.uk/citations?user=YsQgBgUAAAAJ"  # Replace with your actual Google Scholar URL
+      url: "https://scholar.google.co.uk/citations?hl=en&user=YsQgBgUAAAAJ&view_op=list_works&sortby=pubdate"  # Replace with your actual Google Scholar URL
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/konstantinos-billis-phd-baa23a22/"  # Replace
